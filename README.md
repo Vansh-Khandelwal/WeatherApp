@@ -4,6 +4,15 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 This project is hosted on netlify and link is : https://weatherappvk.netlify.app/
 
+## Weather App
+
+![image](https://github.com/Vansh-Khandelwal/WeatherApp/assets/82869137/86232bf1-5613-4bf4-9833-17252f9735da)
+
+## Impelementation of the app
+
+![image](https://github.com/Vansh-Khandelwal/WeatherApp/assets/82869137/ef415972-4802-46c2-974b-0ec1d22951f4)
+
+
 ## Available Scripts
 
 In the project directory, you can run:
