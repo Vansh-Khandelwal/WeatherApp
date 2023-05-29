@@ -6,11 +6,11 @@ This project is hosted on netlify and link is : https://weatherappvk.netlify.app
 
 ## Weather App
 
-![image](https://github.com/Vansh-Khandelwal/WeatherApp/assets/82869137/86232bf1-5613-4bf4-9833-17252f9735da)
+![image](https://github.com/Vansh-Khandelwal/WeatherApp/assets/82869137/18c56966-11cb-46cb-80b1-3538ae3e1d26)
 
 ## Impelementation of the app
 
-![image](https://github.com/Vansh-Khandelwal/WeatherApp/assets/82869137/ef415972-4802-46c2-974b-0ec1d22951f4)
+![image](https://github.com/Vansh-Khandelwal/WeatherApp/assets/82869137/fdc1d0f9-32b3-405f-a6a1-b6e4dda879c7)
 
 
 ## Available Scripts
