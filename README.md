@@ -8,7 +8,7 @@ This project is hosted on netlify and link is : https://weatherappvansh.netlify.
 
 ![image](https://github.com/Vansh-Khandelwal/WeatherApp/assets/82869137/18c56966-11cb-46cb-80b1-3538ae3e1d26)
 
-## Impelementation of the app
+## Implementation of the app
 
 ![image](https://github.com/Vansh-Khandelwal/WeatherApp/assets/82869137/fdc1d0f9-32b3-405f-a6a1-b6e4dda879c7)
 
