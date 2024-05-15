@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-This project is hosted on netlify and link is : https://weatherappvk.netlify.app/
+This project is hosted on netlify and link is : https://weatherappvansh.netlify.app/
 
 ## Weather App
 
