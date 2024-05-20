@@ -3,7 +3,7 @@ import { API } from '../../api/api';
 import { useState } from 'react';
 import React from 'react'
 
-const Form = ({setWeather}) => {
+const Form = ({ setWeather }) => {
 
   const [country, setCountry] = useState("");
   const [city, setCity] = useState("");
@@ -11,13 +11,13 @@ const Form = ({setWeather}) => {
   const [error, setError] = useState(false);
 
   // Submit click Handle
-  const submitHandle = async(event)=>{
+  const submitHandle = async (event) => {
     setError(false);
     event.preventDefault();
 
-    if(city==="" || country==="")
+    if (city === "" || country === "")
       setError(true);
-    else{
+    else {
       try {
         const response = await API(city, country);
         setWeather(response.data);
@@ -30,8 +30,8 @@ const Form = ({setWeather}) => {
 
   // Input change handle
   const change = (event) => {
-    
-    if(event.target.id==="country")
+
+    if (event.target.id === "country")
       setCountry(event.target.value);
 
     else
@@ -56,7 +56,7 @@ const Form = ({setWeather}) => {
                 <div className="mt-2">
                   <input type="text" id="country" placeholder="ex: India"
                     className="block w-full rounded-md border-0 p-1.5 text-gray-900 shadow-sm ring-1 ring-inset ring-gray-300 placeholder:text-gray-400 focus:ring-2 focus:ring-inset focus:ring-indigo-600 sm:text-sm sm:leading-6"
-                    onChange={(change)}/>
+                    onChange={(change)} />
                 </div>
               </div>
 

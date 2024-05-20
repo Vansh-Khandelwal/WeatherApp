@@ -6,9 +6,9 @@ import Footer from './Components/Footer/Footer.jsx'
 const WeatherApp = () => {
   return (
     <div className="App">
-      <Navbar/>
-      <Body/>
-      <Footer/>
+      <Navbar />
+      <Body />
+      <Footer />
     </div>
   )
 }

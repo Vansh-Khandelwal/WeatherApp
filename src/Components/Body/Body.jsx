@@ -8,10 +8,10 @@ const Body = () => {
   const [weather, setWeather] = useState(null);
 
   return (
-    <div className="flex items-center justify-center p-8 gap-10 bg-slate-300">
+    <div className="flex items-center justify-center p-8 gap-10 bg-slate-300 flex-col md:flex-row min-h-screen">
       <div className="bg-black w-16 rounded-full absolute"></div>
-      <Form setWeather={setWeather}/>
-      {weather?<WeatherCard weather={weather}/>:<></>}
+      <Form setWeather={setWeather} />
+      {weather ? <WeatherCard weather={weather} /> : <></>}
     </div>
   )
 }
