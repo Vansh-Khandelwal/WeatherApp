@@ -44,7 +44,7 @@ const Form = ({ setWeather }) => {
         <div className="space-y-12 flex items-center justify-center">
 
           <div className="border-b border-gray-900/10 pb-6">
-            <h2 className="text-4xl font-bold leading-7 text-gray-900 items-center justify-center mb-5">Location Information</h2>
+            <h2 className="text-4xl font-bold leading-10 md:leading-7 text-gray-900 items-center justify-center mb-5">Location Information</h2>
             <hr />
 
             <div className="mt-9 grid grid-cols-1 gap-x-6 gap-y-8 sm:grid-cols-6">

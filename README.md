@@ -17,7 +17,7 @@ Frontend: https://weatherappvansh.netlify.app/
 -> Subtle Animations <br />
 
 ### Bugs:
--> Navbar More Responsive
+NA
 
 ## Weather App
 
