@@ -9,7 +9,6 @@ const Footer = () => {
             <h1 className="font-bold p-3 text-4xl">Contact:</h1>
             <hr />
             <div className="flex flex-col p-3 gap-4">
-              <span>Mobile: +91 9953705331</span>
               <span>Email: vansh.khandelwal06@gmail.com</span>
               <span>Github: https://github.com/Vansh-Khandelwal</span>
             </div>

@@ -1,8 +1,23 @@
 # Getting Started with Create React App
+*A simple weather app.*
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### Tech Stack Used:
+HTML, CSS, TailwindCSS, JS <br />
+Axios, ReactJs, OpenWeatherMap API
 
-This project is hosted on netlify and link is : https://weatherappvansh.netlify.app/
+### Hosted Links: 
+Frontend: https://weatherappvansh.netlify.app/
+
+### Features:
+-> Shows Weather of the given Location <br />
+-> Responsive UI<br />
+
+### Improvements:
+-> Takes User location by default <br />
+-> Subtle Animations <br />
+
+### Bugs:
+-> Navbar More Responsive
 
 ## Weather App
 
